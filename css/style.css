@@ -29,3 +29,7 @@ ul.nav .nav-item a::after {
 ul.nav .nav-item a:hover::after {
     transform: scale(1);
 }
+
+.btn-primary {
+    margin: 10px 0;
+}
