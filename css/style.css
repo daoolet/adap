@@ -33,3 +33,15 @@ ul.nav .nav-item a:hover::after {
 .btn-primary {
     margin: 10px 0;
 }
+.grid-post .card {
+    border: 0;
+}
+
+/* images are the same size */
+.grid-post .card-img-top {
+    max-height: 360px;
+}
+
+.shout {
+    margin-top: 20px;
+}
