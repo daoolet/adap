@@ -45,3 +45,29 @@ ul.nav .nav-item a:hover::after {
 .shout {
     margin-top: 20px;
 }
+
+footer {
+    background-color: #2e2e2e;
+    padding: 14px 0;
+    color: #e9ecef;
+
+}
+
+footer a {
+    transition: .2s;
+}
+
+.footer-left a {
+    color: #e9ecef;
+    margin-right: 20px;
+}
+
+.footer-right a{
+    color: #e9ecef;
+    margin-left: 20px;
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: #db4a39;
+}
