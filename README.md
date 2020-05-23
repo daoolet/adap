@@ -2,4 +2,4 @@
 
 In this case i will make a site via <strong>Bootstrap</strong>
 
-[Первый мой макет](https://github.com/daoolet/FirstTempPSD/blob/master/firstTemp/index.html)
+[Первый мой макет](daoolet.github.io/index.html)
