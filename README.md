@@ -2,4 +2,4 @@
 
 In this case i will make a site via <strong>Bootstrap</strong>
 
-[Первый мой макет](https://github.com/daoolet/daoolet.github.io)
+[Первый мой макет](https://daoolet.github.io/index.html)
